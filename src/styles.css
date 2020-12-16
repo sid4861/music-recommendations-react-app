@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  color: #fefefe;
+  padding: 1rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: 1px solid #fefefe;
+  margin: 1rem 1rem;
+  border-radius: 10px;
+}
+
+ul .songList {
+  list-style-type: none;
+}
+
+.song {
+  color: #1dd05d;
+  display: block;
+  padding: 1rem;
+  margin: 1rem;
+  font-weight: bold;
+  width: 60%;
+}
